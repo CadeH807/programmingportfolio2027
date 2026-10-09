@@ -1,5 +1,7 @@
 ## OOP Calculator for Programming 1
 
+![Calculator](https://github.com/CadeH807/programmingportfolio2027/blob/main/images/Calc01.png?raw=true)
+
 ## Overview
 [Write 2–3 sentences explaining what you are building
 and what a user can do with it.]
